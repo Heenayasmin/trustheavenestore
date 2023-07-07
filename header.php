@@ -13,7 +13,8 @@
 		<link rel="stylesheet" href="css/style.css" />
 		<link rel="stylesheet" href="css/responsive.css" />
 	</head>
-
+<body>
+	
 	<!-- Top banner start -->
 	<section class="main-top">
 		<div class="container">
