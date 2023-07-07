@@ -29,6 +29,7 @@
 body {
 	font-family: "Open Sans", sans-serif;
 	font-family: "Poppins", sans-serif;
+	overflow-x: hidden;
 }
 h1,
 h2,
@@ -403,6 +404,10 @@ li.nav-item.sub-dropdown-1 {
 	font-weight: 700;
 	padding: 8px 25px;
 }
+.slick-prev,
+.slick-next {
+	display: none;
+}
 .slick-prev:before,
 .slick-next:before {
 	color: var(--black);
@@ -506,3 +511,9 @@ li.nav-item.sub-dropdown-1 {
 	margin-top: 50px;
 }
 /* Subscribe section end */
+
+/* footer section start */
+.footer-widget .footer-tittle {
+	color: var(--blue);
+}
+/* footer section end */
