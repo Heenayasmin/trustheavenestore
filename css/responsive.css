@@ -1,0 +1,27 @@
+/* Responsive for Desktop and above screen start */
+@media (min-width: 992px) {
+	/* .navbar-expand-lg .navbar-collapse {
+		justify-content: end;
+	} */
+}
+/* Responsive for Desktop and above screen nnd */
+
+/* Responsive for Laptop screen start */
+@media screen and (max-width: 1399px) {
+}
+/* Responsive for Laptop screen end */
+
+/* Responsive for Tablet screen start */
+@media screen and (max-width: 991px) {
+}
+/* Responsive for Tablet screen end */
+
+/* Responsive for Moblie screen start */
+@media screen and (max-width: 767px) {
+}
+/* Responsive for Moblie screen end */
+
+/* Responsive for Small mobile screen start */
+@media screen and (max-width: 480px) {
+}
+/* Responsive for Small mobile screen end */
